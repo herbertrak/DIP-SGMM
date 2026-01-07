@@ -12,17 +12,18 @@ conda activate dip-sgmm
 
 
 ## Citation/BibTex
-
+<-!--
 ```
 
-<-!--@inproceedings{dip-sgmm26,
+@inproceedings{dip-sgmm26,
   title={Unsupervised Spatially Aware Gaussian Mixture Model via Implicit Deep Priors},
   author={Herbert Rakotonirina, Théophile Lohier, Julien Baptiste},
   booktitle={Proceedings of the Winter Conference on Applications of Computer Vision},
   pages={591--598},
   year={2026}
-}-->
+}
 ```
+-->
 ## Contact
 
 - Herbert RAKOTONIRINA, h.rakotonirina@brgm.fr, [https://scholar.google.fr/citations?user=EZivnj8AAAAJ](https://scholar.google.fr/citations?user=EZivnj8AAAAJ)
