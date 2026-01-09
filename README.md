@@ -2,6 +2,7 @@
 
 This is the implementation of Spatial Aware GMM via Deep Priors, which has been accepted in GeoCV @WACV 2026. You can find our paper via 
 
+![Abstract figure](abstract.png)
 
 ## Dependencies
 
