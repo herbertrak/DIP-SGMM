@@ -10,6 +10,10 @@ conda env create -f environment.yml
 conda activate dip-sgmm
 ```
 
+## Data
+
+The anisotropic dataset is taken from the repository https://github.com/priestcyj/Yunjie-Chen and was originally used in the corresponding publication.
+
 
 ## Citation/BibTex
 <!--
